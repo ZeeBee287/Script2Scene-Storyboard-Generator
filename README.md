@@ -93,5 +93,5 @@ script2scene/
 
 ## 🧑‍💻 Author
 
-* Zahra Batool :D
+Zahra Batool :D
 
