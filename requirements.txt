@@ -1,0 +1,11 @@
+streamlit
+requests
+pillow
+torch
+torchvision
+diffusers
+transformers
+accelerate
+scipy
+safetensors
+python-dotenv
