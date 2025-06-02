@@ -38,7 +38,7 @@ Now, make sure to set the following as environment variable (you can use `.env` 
 ```env
 GROQ_API_KEY=your_groq_api_key
 ```
-
+💡 Rename .env.example to .env and add your actual API keys before running the app.
 
 ## 💻 How to Run in Google Colab
 
