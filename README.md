@@ -5,7 +5,6 @@
 - Generates an image for each scene (using HuggingFace Diffusers & Stable Diffusion),
 - Displays a complete storyboard — in the style you choose!
 
----
 
 ## 🚀 Features
 
@@ -15,7 +14,6 @@
 - 🖼️ **Storyboard View**: See your entire story illustrated, scene by scene
 - 🌐 **Deployable from Colab with a public link using LocalTunnel**
 
----
 
 ## 🧪 Demo Preview
 
@@ -23,7 +21,6 @@
   <img src="https://github.com/your-username/script2scene/blob/main/preview.gif" width="600"/>
 </p>
 
----
 
 ## 🔧 Requirements
 
@@ -35,7 +32,6 @@ Install them with:
 pip install -r requirements.txt
 ```
 
----
 
 ## 🔑 API Keys Required
 
@@ -50,7 +46,6 @@ Now, make sure to set the following as environment variable (you can use `.env` 
 GROQ_API_KEY=your_groq_api_key
 ```
 
----
 
 ## 💻 How to Run in Google Colab
 
@@ -77,7 +72,6 @@ os.environ['GROQ_API_KEY'] = "your_groq_api_key"
 
 5. Visit the generated URL to use your app! 🎉
 
----
 
 ## 📁 Project Structure
 
@@ -90,14 +84,12 @@ script2scene/
 └── README.md            # You're here!
 ```
 
----
 
 ## 🤖 Models Used
 
 * **LLaMA3-70B** from Groq (for breaking story into scenes)
 * **Stable Diffusion 2 / OpenJourney** via HuggingFace (for scene image generation)
 
----
 
 ## ✨ Future Ideas
 
@@ -105,7 +97,6 @@ script2scene/
 * Add audio narration
 * Download full storyboard as PDF or ZIP
 
----
 
 ## 🧑‍💻 Author
 
