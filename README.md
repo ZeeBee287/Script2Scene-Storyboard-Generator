@@ -73,8 +73,9 @@ script2scene/
 │
 ├── app.py               # Streamlit UI
 ├── utils.py             # Scene splitting + image generation
-├── requirements.txt     # Dependencies
-└── README.md            # You're here!
+├── requirements.txt     # All dependencies
+├── .env.example         # Shows which env vars to define
+└── README.md            # Project overview and usage - You're here!
 ```
 
 
