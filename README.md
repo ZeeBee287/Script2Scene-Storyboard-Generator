@@ -15,13 +15,6 @@
 - 🌐 **Deployable from Colab with a public link using LocalTunnel**
 
 
-## 🧪 Demo Preview
-
-<p align="center">
-  <img src="https://github.com/your-username/script2scene/blob/main/preview.gif" width="600"/>
-</p>
-
-
 ## 🔧 Requirements
 
 Dependencies are listed in `requirements.txt`
